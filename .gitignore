@@ -1,0 +1,6 @@
+retail/
+data/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+*.code-workspace
