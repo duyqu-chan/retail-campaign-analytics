@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Retail promotion uplift Analysis
-=======
 # Retail Campaign Analytics & Promotion Uplift Modeling
->>>>>>> 23243f4 (Update README with business context and EDA summary)
 
 ## Project Overview
 This analysis aims to quantify the impact of promotional campaigns on sales performance[cite: 4]. By clustering products and stores based on their baseline (non-promotion) velocity, this project measures the "promotion uplift" to provide data-driven recommendations for future marketing strategies[cite: 4].
