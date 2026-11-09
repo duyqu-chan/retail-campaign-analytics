@@ -4,3 +4,5 @@ outputs/
 __pycache__/
 .ipynb_checkpoints/
 *.code-workspace
+*.odp
+*.zip
