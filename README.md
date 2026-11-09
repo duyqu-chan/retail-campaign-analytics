@@ -1,4 +1,4 @@
-# Retail Campaign Analytics: promotion uplift Analysis
+# Retail promotion uplift Analysis
 
 This project is a data science analysis project developed to analyze and understand the impact of promotions on sales (promotion uplift) in the retail sector.
 
