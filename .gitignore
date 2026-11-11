@@ -1,6 +1,7 @@
 retail/
 data/
 outputs/
+docs/
 __pycache__/
 .ipynb_checkpoints/
 *.code-workspace
